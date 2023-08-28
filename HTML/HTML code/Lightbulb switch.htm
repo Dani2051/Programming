@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+        <title> Lightbulb switch </title>
+
+        <style>
+
+            body { 
+                text-align: center;
+            }
+
+            button { 
+                margin-top: 170px;
+                padding: 10px;
+                font-size: 100px;
+                margin-left: auto;
+                margin-right: auto;
+            }
+
+        </style>
+
+        <script>
+
+            var x = 1
+            function clicked() {
+                var y = document.getElementById('bulb');
+                x += 1;
+                if (x%2 == 0) {
+                y.src="lightbulbOn.JPG";
+                }
+                if (x%2 != 0) {
+                y.src="lightbulbOff.JPG";
+                }
+            }
+
+        </script>
+    </head>
+
+    <body>
+        
+        <button onclick="clicked()"> Click me </button>
+        <h1 id="clickerbutton">
+            <img src="lightbulbOff.JPG" id="bulb"/> 
+        </h1>
+
+    </body>
+
+</html>

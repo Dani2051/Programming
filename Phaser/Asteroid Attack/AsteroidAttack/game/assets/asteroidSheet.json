@@ -1,0 +1,76 @@
+{"frames": [
+
+{
+	"filename": "asteroid1.png",
+	"frame": {"x":0,"y":0,"w":97,"h":97},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":97},
+	"sourceSize": {"w":97,"h":97}
+},
+{
+	"filename": "asteroid2.png",
+	"frame": {"x":97,"y":0,"w":97,"h":97},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":97},
+	"sourceSize": {"w":97,"h":97}
+},
+{
+	"filename": "asteroid3.png",
+	"frame": {"x":194,"y":0,"w":97,"h":97},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":97},
+	"sourceSize": {"w":97,"h":97}
+},
+{
+	"filename": "asteroid4.png",
+	"frame": {"x":291,"y":0,"w":97,"h":97},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":97},
+	"sourceSize": {"w":97,"h":97}
+},
+{
+	"filename": "asteroid5.png",
+	"frame": {"x":388,"y":0,"w":97,"h":97},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":97},
+	"sourceSize": {"w":97,"h":97}
+},
+{
+	"filename": "asteroid6.png",
+	"frame": {"x":485,"y":0,"w":97,"h":97},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":97},
+	"sourceSize": {"w":97,"h":97}
+},
+{
+	"filename": "asteroid7.png",
+	"frame": {"x":582,"y":0,"w":97,"h":97},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":97},
+	"sourceSize": {"w":97,"h":97}
+},
+{
+	"filename": "asteroid8.png",
+	"frame": {"x":679,"y":0,"w":97,"h":97},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":97},
+	"sourceSize": {"w":97,"h":97}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "asteroidSheet.png",
+	"format": "RGBA8888",
+	"size": {"w":776,"h":97},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c99c4811179f42f43e5930d33479ea6f:fecba45db9f8e2ca99c22d6e946ca883:f4a42bc72ef386ad0b65fb699eb4b84a$"
+}
+}
